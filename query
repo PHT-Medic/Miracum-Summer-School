@@ -1,0 +1,13 @@
+{
+"query": {
+    "resource": "Condition",
+    "parameters": [
+        {
+            "variable": "code",
+            "condition": "E70.0,E70.1,E84.0,E84.1,E84.8,E84.80,E84.87,E84.88,E84.9"
+        }]},
+            "data": {
+            "output_format": "json",
+            "filename": "cord_results.json"
+        }
+}
